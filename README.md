@@ -1,3 +1,3 @@
 # Test01
 y = 10
-print(2*y)
+fprintf(2*y)
